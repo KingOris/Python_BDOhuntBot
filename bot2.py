@@ -7,7 +7,7 @@ from discord.ext.commands import Bot
     This bot is for record hunting people in Black Desert online
 """""
 Bot_Prefix = ("?", "~")
-TOKEN = "NTM4NDY1Mzc5NjY0NTI3NDEx.Dy1zeQ.3FwlKeRU5Am1bS4MqmKH-gxpfAc"
+TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 client = Bot(command_prefix=Bot_Prefix)
 guild_name_list = []
