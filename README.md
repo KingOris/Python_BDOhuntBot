@@ -11,3 +11,4 @@
         2 Keep the bot online by using some free server
         3 Add more function
         4 Complete help page
+        5 Add some score or rank thing
